@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Torsten Leibrich's blox</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-01-26T14:30:11+00:00</updated>
- <id>http://username.github.io</id>
+ <title>Torsten Leibrich's blog</title>
+ <link href="http://torstenleibrich.github.io/" rel="self"/>
+ <link href="http://torstenleibrich.github.io"/>
+ <updated>2014-01-26T14:48:46+00:00</updated>
+ <id>http://torstenleibrich.github.io</id>
  <author>
    <name>Torsten Leibrich</name>
    <email></email>
@@ -14,17 +14,17 @@
  
  <entry>
    <title>Hello world</title>
-   <link href="http://username.github.io/2014/01/26/hello-world"/>
+   <link href="http://torstenleibrich.github.io/2014/01/26/hello-world"/>
    <updated>2014-01-26T00:00:00+00:00</updated>
-   <id>http://username.github.io/2014/01/26/hello-world</id>
+   <id>http://torstenleibrich.github.io/2014/01/26/hello-world</id>
    <content type="html"></content>
  </entry>
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://torstenleibrich.github.io/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00+00:00</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://torstenleibrich.github.io/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
